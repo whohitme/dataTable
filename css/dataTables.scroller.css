@@ -42,3 +42,11 @@ div.DTS div.dataTables_scroll {
 	background: url('../images/loading-background.png') repeat 0 0;
 }
 
+/*
+ * For extra button
+ */
+ .btn {
+	 background-color:#F93;
+	 padding: 10px;
+	 color: #666;
+ }
